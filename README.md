@@ -4,6 +4,11 @@
 
 #  İSTE Akademik Asistan ve Öğrenci Yaşam Rehberi
 
+
+<img width="900" height="426" alt="image" src="https://github.com/user-attachments/assets/58f469d4-49ca-4852-9860-f908d29e0ee1" />
+
+
+
 İskenderun Teknik Üniversitesi (İSTE) öğrencileri için özel olarak geliştirilmiş, kapalı devre çalışan ve dışarıdan izole yapay zeka destekli kapsamlı bir akademik asistan uygulamasıdır. 
 
 Sistem; karmaşık mevzuat metinlerini anında çözen bir **RAG (Retrieval-Augmented Generation)** mimarisinden güç alırken, yemekhane menüsünden sınav sayaçlarına kadar bir öğrencinin kampüs yaşamında ihtiyaç duyduğu her şeyi tek ekranda birleştirir.
