@@ -55,7 +55,7 @@ Proje, S.O.L.I.D prensiplerine uygun, yüksek modüler bir yapıda tasarlanmış
 
 ---
 
-## 🗄️ Veri Yönetimi
+##  Veri Yönetimi
 
 -  **`data/`:** Sistem RAG yapısının referans aldığı ham İSTE PDF, MD ve TXT dökümanlarının bulunduğu havuz.
 -  **`vector_db/`:** Metinlerin sayısal koordinatlara dökülmüş, ChromaDB tarafından yönetilen sıkıştırılmış vektör formatları.
