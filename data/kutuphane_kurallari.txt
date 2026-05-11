@@ -1,0 +1,5 @@
+İskenderun Teknik Üniversitesi (İSTE) Kütüphane Kullanım Kuralları:
+1. Kütüphane hafta içi 08:30 - 22:00 saatleri arasında açıktır.
+2. Öğrenciler tek seferde en fazla 5 kitap ödünç alabilirler.
+3. Kitapların ödünç süresi 15 gündür.
+4. Geciken her gün için kitap başına 1 TL para cezası uygulanır.
